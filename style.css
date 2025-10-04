@@ -73,7 +73,7 @@ body {
 
 footer {
     background-color: rgb(235, 229, 227);
-    color: rgba(70, 20, 4, 0.801);
+    color:darkgray;
     text-align: center;
     padding: 20px;
 }
@@ -83,4 +83,14 @@ footer p {
     font-family: "Libre Baskerville", sans-serif;
     font-size: 16px;
     font-weight: 500;
+}
+
+.sobre {
+    background-color:rgb(243, 234, 225);
+    color:darkgray
+}
+
+.experiências {
+    background-color: rgb(233, 224, 214);
+    color:darkgray;
 }

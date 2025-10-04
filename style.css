@@ -72,15 +72,15 @@ body {
 }
 
 footer {
-    background-color: rgb(235, 229, 227);;
-    color:dimgray;
+    background-color: rgb(235, 232, 224);;
+    color: lightgray;
     text-align: center;
     padding: 20px;
 }
 
 footer p {
     margin: 0;
-    font-family: "Libre Baskerville", serif;
+    font-family: "Libre Baskerville", Verdana, Geneva, Tahoma, sans-serif
     font-size: 16px;
     font-weight: 500;
 }
